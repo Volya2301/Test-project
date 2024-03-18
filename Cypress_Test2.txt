@@ -1,0 +1,3 @@
+cy.visit(https://lms.ithillel.ua/);
+
+cy.get('button').click
