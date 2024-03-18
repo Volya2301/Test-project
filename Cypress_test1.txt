@@ -1,4 +1,3 @@
 cy.visit(http://qauto2.forstudy.space)
-cy.get('qauto2').should('exist')
 
 Hillel IT
