@@ -1,3 +1,4 @@
 cy.visit(http://qauto2.forstudy.space)
-Happy new year
-Hillel IT
+cy.get('qauto2').should('exist')
+cy.get('Happy new year!')
+cy.get
