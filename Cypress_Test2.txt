@@ -1,3 +1,3 @@
 cy.visit(https://lms.ithillel.ua/);
-
+cy.get('add the comand')
 cy.get('button').click
